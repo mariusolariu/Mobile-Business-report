@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Analysis of mobile technologies in online learning}{4}
+\contentsline {subsection}{\numberline {2.1}Sources of monetization}{4}
+\contentsline {section}{\numberline {3}Case studies: Coursera and edX}{4}
+\contentsline {subsection}{\numberline {3.1}Coursera}{4}
+\contentsline {paragraph}{Monetization\\}{4}
+\contentsline {subsection}{\numberline {3.2}edX}{5}
+\contentsline {section}{\numberline {4}References}{6}
