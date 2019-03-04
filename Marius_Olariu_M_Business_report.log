@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  1 MAR 2019 00:50
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  4 MAR 2019 00:21
  restricted system commands enabled.
 **Marius_Olariu_M_Business_report.tex
 (./Marius_Olariu_M_Business_report.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.129 seconds
+luaotfload | main : initialization completed in 0.124 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -57,12 +57,127 @@ oman10-regular.luc))
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: luatex-loader 2016/05/16 v0.6 Lua module loader (HO)
+
+(/usr/local/texlive/2018/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
+
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks14
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count91
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen104
+\Fld@menulength=\count92
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2018/02/06 v6.86b Hyperref driver for luaTeX
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
+2.
+)
+\Hy@SectionHShift=\skip43
+)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen103
-\WF@size=\dimen104
-\c@WF@wrappedlines=\count88
+\wrapoverhang=\dimen107
+\WF@size=\dimen108
+\c@WF@wrappedlines=\count98
 \WF@box=\box26
-\WF@everypar=\toks14
+\WF@everypar=\toks16
 Package: wrapfig 2003/01/31  v 3.6
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/makecell/makecell.sty
@@ -70,33 +185,29 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
-\col@sep=\dimen105
+\col@sep=\dimen109
 \ar@mcellbox=\box27
-\extrarowheight=\dimen106
-\NC@list=\toks15
-\extratabsurround=\skip43
-\backup@length=\skip44
+\extrarowheight=\dimen110
+\NC@list=\toks17
+\extratabsurround=\skip44
+\backup@length=\skip45
 \ar@cellbox=\box28
 )
-\rotheadsize=\dimen107
-\c@nlinenum=\count89
-\TeXr@lab=\toks16
+\rotheadsize=\dimen111
+\c@nlinenum=\count99
+\TeXr@lab=\toks18
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count90
-\float@exts=\toks17
+\c@float@type=\count100
+\float@exts=\toks19
 \float@box=\box29
-\@float@everytoks=\toks18
+\@float@everytoks=\toks20
 \@floatcapt=\box30
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
-)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
@@ -111,34 +222,23 @@ Package graphics Info: Driver file: luatex.def on input line 99.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/luatex.def
 File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
 ))
-\Gin@req@height=\dimen108
-\Gin@req@width=\dimen109
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/03/24 v5.7 Page Geometry
-
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count91
-\Gm@cntv=\count92
-\c@Gm@tempcnt=\count93
-\Gm@bindingoffset=\dimen110
-\Gm@wd@mp=\dimen111
-\Gm@odd@mp=\dimen112
-\Gm@even@mp=\dimen113
-\Gm@layoutwidth=\dimen114
-\Gm@layoutheight=\dimen115
-\Gm@layouthoffset=\dimen116
-\Gm@layoutvoffset=\dimen117
-\Gm@dimlist=\toks20
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks21
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
@@ -164,55 +264,45 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+\AtBeginShipoutBox=\box31
+Package hyperref Info: Link coloring OFF on input line 12.
 
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count104
+)
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
+
+(./Marius_Olariu_M_Business_report.out) (./Marius_Olariu_M_Business_report.out)
+\@outlinefile=\write3
+
+\openout3 = Marius_Olariu_M_Business_report.out
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count94
-\scratchdimen=\dimen118
-\scratchbox=\box31
-\nofMPsegments=\count95
-\nofMParguments=\count96
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count97
-\MPscratchDim=\dimen119
-\MPnumerator=\count98
-\makeMPintoPDFobject=\count99
-\everyMPtoPDFconversion=\toks22
+\scratchcounter=\count105
+\scratchdimen=\dimen122
+\scratchbox=\box32
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen123
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks23
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX detected.
-))))
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
-
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks23
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
 8.
@@ -259,7 +349,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<./imgs/uws_logo.png, id=1, 2007.5pt x 305.14pt>
+<./imgs/uws_logo.png, id=40, 2007.5pt x 305.14pt>
 File: ./imgs/uws_logo.png Graphic file (type png)
 <use ./imgs/uws_logo.png>
 Package luatex.def Info: ./imgs/uws_logo.png  used on input line 16.
@@ -279,19 +369,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 3.
 )
-\tf@toc=\write3
+\tf@toc=\write4
 
-\openout3 = Marius_Olariu_M_Business_report.toc
+\openout4 = Marius_Olariu_M_Business_report.toc
  (./Marius_Olariu_M_Business_report.lof)
-\tf@lof=\write4
+\tf@lof=\write5
 
-\openout4 = Marius_Olariu_M_Business_report.lof
+\openout5 = Marius_Olariu_M_Business_report.lof
 
 (./Marius_Olariu_M_Business_report.lot)
-\tf@lot=\write5
+\tf@lot=\write6
 
-\openout5 = Marius_Olariu_M_Business_report.lot
- [1]
+\openout6 = Marius_Olariu_M_Business_report.lot
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
+[1]
 Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
@@ -303,7 +395,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
 (load luc: /Users/macbookpro/Library/texlive/2018/texmf-var/luatex-cache/generic
 /fonts/otl/lmroman10-italic.luc)
-<./imgs/stats.png, id=15, 1027.84pt x 513.92pt>
+<./imgs/stats.png, id=84, 1027.84pt x 513.92pt>
 File: ./imgs/stats.png Graphic file (type png)
 <use ./imgs/stats.png>
 Package luatex.def Info: ./imgs/stats.png  used on input line 69.
@@ -313,90 +405,145 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--71
 
  []
 
-[2] [3<./imgs/stats.png>]
-<./imgs/courseraLogo.png, id=24, 250.9375pt x 65.24374pt>
+[2] [3
+warning  (pdf backend): ignoring duplicate destination with the name 'figure.1'
+
+warning  (pdf backend): ignoring duplicate destination with the name 'table.1'
+<./imgs/stats.png>] [4]
+<./imgs/courseraLogo.png, id=104, 250.9375pt x 65.24374pt>
 File: ./imgs/courseraLogo.png Graphic file (type png)
 <use ./imgs/courseraLogo.png>
-Package luatex.def Info: ./imgs/courseraLogo.png  used on input line 110.
+Package luatex.def Info: ./imgs/courseraLogo.png  used on input line 116.
 (luatex.def)             Requested size: 234.8775pt x 61.07127pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
-
- []
-
-[4<./imgs/courseraLogo.png>] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 148.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+[5
+warning  (pdf backend): ignoring duplicate destination with the name 'figure.2'
+
+warning  (pdf backend): ignoring duplicate destination with the name 'table.2'
+<./imgs/courseraLogo.png>]
+<./imgs/edXLogo.jpg, id=113, 607.26875pt x 404.51125pt>
+File: ./imgs/edXLogo.jpg Graphic file (type jpg)
+<use ./imgs/edXLogo.jpg>
+Package luatex.def Info: ./imgs/edXLogo.jpg  used on input line 186.
+(luatex.def)             Requested size: 164.41711pt x 109.51576pt.
+ [6
+warning  (pdf backend): ignoring duplicate destination with the name 'table.3'
+
+warning  (pdf backend): ignoring duplicate destination with the name 'figure.3'
+<./imgs/edXLogo.jpg>]
+Overfull \hbox (4.22496pt too wide) in paragraph at lines 195--208
+[][]
+ []
+
+[7
+warning  (pdf backend): ignoring duplicate destination with the name 'table.4'
+]
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
 
-Overfull \hbox (67.93996pt too wide) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+
+Overfull \hbox (67.93996pt too wide) in paragraph at lines 230--231
 []\TU/lmr/m/n/10 The Next Billion-Dollar Star-tups (2018) Avail-able: https://w
 ww.forbes.com/next-billion-dollar-startups/#246a9dbe4441
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--168
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--170
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
 
  []
 
-[6] (./Marius_Olariu_M_Business_report.aux))
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 238.
+[8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 238.
+ (./Marius_Olariu_M_Business_report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 238.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 238.
+Package rerunfilecheck Info: File `Marius_Olariu_M_Business_report.out' has not 
+changed.
+(rerunfilecheck)             Checksum: FD500D03FCB296632D83A69AE981DB0E;565.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 238.
+)
 
 Here is how much of LuaTeX's memory you used:
- 2461 strings out of 494413
- 100000,128383 words of node,token memory allocated
- 365 words of node memory still in use:
-   2 hlist, 1 vlist, 1 rule, 2 glue, 3 attribute, 47 glue_spec, 3 attribute_list
-, 1 write nodes
-   avail lists: 1:1,2:221,3:56,4:60,5:207,6:14,7:4728,8:42,9:105,10:31,11:344
- 6458 multiletter control sequences out of 65536+600000
+ 6184 strings out of 494413
+ 100000,221844 words of node,token memory allocated
+ 395 words of node memory still in use:
+   2 hlist, 1 vlist, 1 rule, 2 glue, 5 attribute, 49 glue_spec, 5 attribute_list
+, 1 write, 2 pdf_action nodes
+   avail lists: 1:1,2:501,3:102,4:60,5:266,6:33,7:6151,8:99,9:173,10:31,11:389
+ 10109 multiletter control sequences out of 65536+600000
  33 fonts using 2398311 bytes
- 41i,14n,32p,1997b,269s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 28i,14n,32p,2638b,341s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.ot
 f></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-regular
 .otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-bold
 .otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman12-regu
-lar.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman12-b
-old.otf>
-Output written on Marius_Olariu_M_Business_report.pdf (7 pages, 101833 bytes).
+lar.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman17-r
+egular.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman1
+2-bold.otf>
+Output written on Marius_Olariu_M_Business_report.pdf (9 pages, 151837 bytes).
 
-PDF statistics: 66 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 171 PDF objects out of 1000 (max. 8388607)
+ 134 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 131072)
+ 73 words of extra memory for PDF output out of 10000 (max. 100000000)
 
