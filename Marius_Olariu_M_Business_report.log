@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  4 MAR 2019 00:21
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  9 MAR 2019 02:49
  restricted system commands enabled.
 **Marius_Olariu_M_Business_report.tex
 (./Marius_Olariu_M_Business_report.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.124 seconds
+luaotfload | main : initialization completed in 0.134 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -349,7 +349,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<./imgs/uws_logo.png, id=40, 2007.5pt x 305.14pt>
+<./imgs/uws_logo.png, id=68, 2007.5pt x 305.14pt>
 File: ./imgs/uws_logo.png Graphic file (type png)
 <use ./imgs/uws_logo.png>
 Package luatex.def Info: ./imgs/uws_logo.png  used on input line 16.
@@ -384,155 +384,221 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 [1]
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
 (load luc: /Users/macbookpro/Library/texlive/2018/texmf-var/luatex-cache/generic
 /fonts/otl/lmroman10-italic.luc)
-<./imgs/stats.png, id=84, 1027.84pt x 513.92pt>
+<./imgs/stats.png, id=125, 1027.84pt x 513.92pt>
 File: ./imgs/stats.png Graphic file (type png)
 <use ./imgs/stats.png>
 Package luatex.def Info: ./imgs/stats.png  used on input line 69.
 (luatex.def)             Requested size: 462.52373pt x 231.26186pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--71
+Underfull \hbox (badness 10000) in paragraph at lines 65--71
 
  []
 
 [2] [3
 warning  (pdf backend): ignoring duplicate destination with the name 'figure.1'
-
-warning  (pdf backend): ignoring duplicate destination with the name 'table.1'
-<./imgs/stats.png>] [4]
-<./imgs/courseraLogo.png, id=104, 250.9375pt x 65.24374pt>
-File: ./imgs/courseraLogo.png Graphic file (type png)
-<use ./imgs/courseraLogo.png>
-Package luatex.def Info: ./imgs/courseraLogo.png  used on input line 116.
-(luatex.def)             Requested size: 234.8775pt x 61.07127pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+<./imgs/stats.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
 
  []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 148.
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
 
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+<./imgs/mobEco.jpg, id=136, 963.6pt x 722.7pt>
+File: ./imgs/mobEco.jpg Graphic file (type jpg)
+<use ./imgs/mobEco.jpg>
+Package luatex.def Info: ./imgs/mobEco.jpg  used on input line 99.
+(luatex.def)             Requested size: 481.79883pt x 361.3491pt.
+
+Overfull \hbox (12.04381pt too wide) in paragraph at lines 99--100
+[][]
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 106--109
 
  []
 
 [5
 warning  (pdf backend): ignoring duplicate destination with the name 'figure.2'
+<./imgs/mobEco.jpg>]
+<./imgs/iphonesMania.jpg, id=149, 770.88pt x 578.16pt>
+File: ./imgs/iphonesMania.jpg Graphic file (type jpg)
+<use ./imgs/iphonesMania.jpg>
+Package luatex.def Info: ./imgs/iphonesMania.jpg  used on input line 112.
+(luatex.def)             Requested size: 462.53157pt x 346.89867pt.
+<./imgs/commNetworks.jpg, id=150, 1003.75pt x 627.34375pt>
+File: ./imgs/commNetworks.jpg Graphic file (type jpg)
+<use ./imgs/commNetworks.jpg>
+Package luatex.def Info: ./imgs/commNetworks.jpg  used on input line 129.
+(luatex.def)             Requested size: 451.68333pt x 282.30208pt.
+ [6
+warning  (pdf backend): ignoring duplicate destination with the name 'figure.3'
+<./imgs/iphonesMania.jpg>] [7
+warning  (pdf backend): ignoring duplicate destination with the name 'figure.4'
+
+warning  (pdf backend): ignoring duplicate destination with the name 'table.1'
+<./imgs/commNetworks.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+<./imgs/courseraLogo.png, id=165, 250.9375pt x 65.24374pt>
+File: ./imgs/courseraLogo.png Graphic file (type png)
+<use ./imgs/courseraLogo.png>
+Package luatex.def Info: ./imgs/courseraLogo.png  used on input line 180.
+(luatex.def)             Requested size: 234.8775pt x 61.07127pt.
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 212.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+[9
+warning  (pdf backend): ignoring duplicate destination with the name 'figure.5'
 
 warning  (pdf backend): ignoring duplicate destination with the name 'table.2'
 <./imgs/courseraLogo.png>]
-<./imgs/edXLogo.jpg, id=113, 607.26875pt x 404.51125pt>
+Underfull \hbox (badness 10000) in paragraph at lines 243--245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--249
+
+ []
+
+<./imgs/edXLogo.jpg, id=179, 607.26875pt x 404.51125pt>
 File: ./imgs/edXLogo.jpg Graphic file (type jpg)
 <use ./imgs/edXLogo.jpg>
-Package luatex.def Info: ./imgs/edXLogo.jpg  used on input line 186.
+Package luatex.def Info: ./imgs/edXLogo.jpg  used on input line 253.
 (luatex.def)             Requested size: 164.41711pt x 109.51576pt.
- [6
+[10
 warning  (pdf backend): ignoring duplicate destination with the name 'table.3'
-
-warning  (pdf backend): ignoring duplicate destination with the name 'figure.3'
-<./imgs/edXLogo.jpg>]
-Overfull \hbox (4.22496pt too wide) in paragraph at lines 195--208
+]
+Overfull \hbox (4.22496pt too wide) in paragraph at lines 262--275
 [][]
  []
 
-[7
+[11
 warning  (pdf backend): ignoring duplicate destination with the name 'table.4'
-]
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+warning  (pdf backend): ignoring duplicate destination with the name 'figure.6'
+<./imgs/edXLogo.jpg>]
+Overfull \hbox (5.42886pt too wide) in paragraph at lines 282--283
+[]\TU/lmr/m/n/10 A brief his-tory of mo-bile tele-phony. (n.d.) Avail-able: htt
+p://smar-tipx.com/brief-history-mobile-telephony/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--227
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
 
  []
 
 
-Overfull \hbox (67.93996pt too wide) in paragraph at lines 230--231
-[]\TU/lmr/m/n/10 The Next Billion-Dollar Star-tups (2018) Avail-able: https://w
-ww.forbes.com/next-billion-dollar-startups/#246a9dbe4441
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
+Overfull \hbox (8.66498pt too wide) in paragraph at lines 301--303
+\TU/lmr/m/n/10 Available: https://www.forbes.com/next-billion-dollar-startups/#
+246a9dbe4441 [Ac-cessed: 28 Febru-ary 2019]. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 238.
-[8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 238.
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 310.
+[12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 310.
  (./Marius_Olariu_M_Business_report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 238.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 238.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 310.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 310.
 Package rerunfilecheck Info: File `Marius_Olariu_M_Business_report.out' has not 
 changed.
-(rerunfilecheck)             Checksum: FD500D03FCB296632D83A69AE981DB0E;565.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 238.
+(rerunfilecheck)             Checksum: 94C11204F37CEA2843EC809F157859C1;1063.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 310.
 )
 
 Here is how much of LuaTeX's memory you used:
- 6184 strings out of 494413
+ 6257 strings out of 494413
  100000,221844 words of node,token memory allocated
  395 words of node memory still in use:
    2 hlist, 1 vlist, 1 rule, 2 glue, 5 attribute, 49 glue_spec, 5 attribute_list
 , 1 write, 2 pdf_action nodes
-   avail lists: 1:1,2:501,3:102,4:60,5:266,6:33,7:6151,8:99,9:173,10:31,11:389
- 10109 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:511,3:152,4:61,5:257,6:53,7:5263,8:99,9:198,10:31,11:360
+ 10131 multiletter control sequences out of 65536+600000
  33 fonts using 2398311 bytes
- 28i,14n,32p,2638b,341s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 28i,14n,32p,1881b,341s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.ot
 f></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-regular
 .otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-bold
@@ -540,10 +606,10 @@ f></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-regular
 lar.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman17-r
 egular.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman1
 2-bold.otf>
-Output written on Marius_Olariu_M_Business_report.pdf (9 pages, 151837 bytes).
+Output written on Marius_Olariu_M_Business_report.pdf (13 pages, 923605 bytes).
 
-PDF statistics: 171 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 131072)
- 73 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 240 PDF objects out of 1000 (max. 8388607)
+ 196 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 131072)
+ 129 words of extra memory for PDF output out of 10000 (max. 100000000)
 
