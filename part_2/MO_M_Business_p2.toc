@@ -1,0 +1,34 @@
+\contentsline {section}{\numberline {1}Market Analysis}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Coursera}{4}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Purpose and target audience}{4}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Functionality}{4}{subsubsection.1.1.2}
+\contentsline {paragraph}{Learn}{4}{paragraph*.1}
+\contentsline {paragraph}{Downloads}{5}{paragraph*.2}
+\contentsline {paragraph}{Profile}{5}{paragraph*.3}
+\contentsline {paragraph}{Recommended}{5}{paragraph*.4}
+\contentsline {paragraph}{Explore}{5}{paragraph*.5}
+\contentsline {subsubsection}{\numberline {1.1.3}Design principles}{6}{subsubsection.1.1.3}
+\contentsline {paragraph}{The Tab Bar design}{6}{paragraph*.7}
+\contentsline {paragraph}{Hub-and-Spoke pattern}{6}{paragraph*.8}
+\contentsline {paragraph}{List design}{6}{paragraph*.9}
+\contentsline {subsubsection}{\numberline {1.1.4}User experience}{7}{subsubsection.1.1.4}
+\contentsline {subsubsection}{\numberline {1.1.5}Added value for the user}{9}{subsubsection.1.1.5}
+\contentsline {subsubsection}{\numberline {1.1.6}Problems}{9}{subsubsection.1.1.6}
+\contentsline {subsection}{\numberline {1.2}edX}{10}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Purpose and target audience}{10}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Functionality}{10}{subsubsection.1.2.2}
+\contentsline {paragraph}{Courses}{10}{paragraph*.13}
+\contentsline {paragraph}{Programs}{10}{paragraph*.14}
+\contentsline {paragraph}{Discovery}{10}{paragraph*.15}
+\contentsline {subsubsection}{\numberline {1.2.3}Design principles}{10}{subsubsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.4}User experience}{10}{subsubsection.1.2.4}
+\contentsline {subsubsection}{\numberline {1.2.5}Added value for the user}{13}{subsubsection.1.2.5}
+\contentsline {subsubsection}{\numberline {1.2.6}Problems}{13}{subsubsection.1.2.6}
+\contentsline {section}{\numberline {2}App prototype Design}{14}{section.2}
+\contentsline {subsection}{\numberline {2.1}App purpose and target audience}{14}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Functionality}{14}{subsection.2.2}
+\contentsline {paragraph}{Learn feature}{14}{paragraph*.19}
+\contentsline {paragraph}{Explore feature}{14}{paragraph*.20}
+\contentsline {paragraph}{Profile}{14}{paragraph*.21}
+\contentsline {subsection}{\numberline {2.3}App prototype screens and user experience}{15}{subsection.2.3}
+\contentsline {section}{\numberline {A}Complete list of Coursera app main screens}{20}{Appendix.a.A}
